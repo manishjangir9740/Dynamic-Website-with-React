@@ -1,0 +1,22 @@
+/* CountdownTimer.css */
+.countdown-timer {
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+}
+
+.banner {
+    padding: 20px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.loading, .error {
+    font-size: 18px;
+    color: #007bff;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
